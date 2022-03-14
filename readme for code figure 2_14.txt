@@ -7,7 +7,8 @@
 # --------------------------------------------------------------------------------------------------------------------
 #
 # - Code functionality: time_series_global_ave_tcwv.m: This code plots the time series of global average total column water vapour annual anomalies for the period 1979-2019
-# - Input data: MATLAB file of global average total column water vapour anomalies from a variety of datasets. The files can be accessed at: *Link to CEDA Catalogue*
+# - Input data: MATLAB file of global average total column water vapour anomalies from a variety of datasets. The files can be accessed at: 
+#  https://catalogue.ceda.ac.uk/uuid/de41130346a04f97879352525d890577
 # - Output variables: The code plots figure 2.14 as in the report
 #
 # ----------------------------------------------------------------------------------------------------
